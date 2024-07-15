@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uregraha.github.io/sitemap
+Sitemap: https://uregraha.github.io/app/sitemap
+Sitemap: https://uregraha.github.io/assets/sitemap
+Sitemap: https://uregraha.github.io/css/sitemap
+Sitemap: https://uregraha.github.io/includes/sitemap
+Sitemap: https://uregraha.github.io/item/sitemap
+Sitemap: https://uregraha.github.io/src/sitemap
